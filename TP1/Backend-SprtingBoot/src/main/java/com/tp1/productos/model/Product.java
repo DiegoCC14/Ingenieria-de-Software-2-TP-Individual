@@ -1,4 +1,4 @@
-package com.kindsonthegenius.product_app.model;
+package com.tp1.productos.model;
 
 import jakarta.persistence.*;
 import lombok.Data;

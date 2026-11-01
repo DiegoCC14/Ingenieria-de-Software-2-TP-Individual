@@ -1,7 +1,7 @@
-package com.kindsonthegenius.product_app.services;
+package com.tp1.productos.services;
 
-import com.kindsonthegenius.product_app.model.Category;
-import com.kindsonthegenius.product_app.repositories.CategoryRepository;
+import com.tp1.productos.model.Category;
+import com.tp1.productos.repositories.CategoryRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

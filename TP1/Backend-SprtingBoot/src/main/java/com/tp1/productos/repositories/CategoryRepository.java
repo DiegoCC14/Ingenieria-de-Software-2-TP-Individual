@@ -1,6 +1,6 @@
-package com.kindsonthegenius.product_app.repositories;
+package com.tp1.productos.repositories;
 
-import com.kindsonthegenius.product_app.model.Category;
+import com.tp1.productos.model.Category;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

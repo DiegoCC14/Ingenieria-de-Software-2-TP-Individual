@@ -1,7 +1,7 @@
-package com.kindsonthegenius.product_app.controllers;
+package com.tp1.productos.controllers;
 
-import com.kindsonthegenius.product_app.model.SubCategory;
-import com.kindsonthegenius.product_app.services.SubCategoryService;
+import com.tp1.productos.model.SubCategory;
+import com.tp1.productos.services.SubCategoryService;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;

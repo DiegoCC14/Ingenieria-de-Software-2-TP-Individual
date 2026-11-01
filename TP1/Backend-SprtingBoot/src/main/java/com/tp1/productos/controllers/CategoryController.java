@@ -1,7 +1,7 @@
-package com.kindsonthegenius.product_app.controllers;
+package com.tp1.productos.controllers;
 
-import com.kindsonthegenius.product_app.services.CategoryService;
-import com.kindsonthegenius.product_app.model.Category;
+import com.tp1.productos.services.CategoryService;
+import com.tp1.productos.model.Category;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

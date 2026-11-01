@@ -1,4 +1,4 @@
-package com.kindsonthegenius.product_app.model;
+package com.tp1.productos.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonManagedReference;

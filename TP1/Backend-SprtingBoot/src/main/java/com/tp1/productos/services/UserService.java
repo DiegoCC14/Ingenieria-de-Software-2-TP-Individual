@@ -1,7 +1,7 @@
-package com.kindsonthegenius.product_app.services;
+package com.tp1.productos.services;
 
-import com.kindsonthegenius.product_app.model.User;
-import com.kindsonthegenius.product_app.repositories.UserRepository;
+import com.tp1.productos.model.User;
+import com.tp1.productos.repositories.UserRepository;
 import org.springframework.security.authentication.BadCredentialsException;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;

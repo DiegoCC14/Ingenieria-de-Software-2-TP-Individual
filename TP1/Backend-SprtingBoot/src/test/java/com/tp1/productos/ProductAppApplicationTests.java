@@ -1,4 +1,4 @@
-package com.kindsonthegenius.product_app;
+package com.tp1.productos;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,7 +1,7 @@
-package com.kindsonthegenius.product_app.controllers;
+package com.tp1.productos.controllers;
 
-import com.kindsonthegenius.product_app.services.ProductService;
-import com.kindsonthegenius.product_app.model.Product;
+import com.tp1.productos.services.ProductService;
+import com.tp1.productos.model.Product;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

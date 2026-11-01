@@ -1,4 +1,4 @@
-package com.kindsonthegenius.product_app.security;
+package com.tp1.productos.security;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;

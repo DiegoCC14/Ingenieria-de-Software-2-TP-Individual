@@ -1,7 +1,7 @@
-package com.kindsonthegenius.product_app.services;
+package com.tp1.productos.services;
 
-import com.kindsonthegenius.product_app.model.Product;
-import com.kindsonthegenius.product_app.repositories.ProductRepository;
+import com.tp1.productos.model.Product;
+import com.tp1.productos.repositories.ProductRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

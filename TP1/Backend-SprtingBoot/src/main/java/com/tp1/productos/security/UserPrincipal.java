@@ -1,6 +1,6 @@
-package com.kindsonthegenius.product_app.security;
+package com.tp1.productos.security;
 
-import com.kindsonthegenius.product_app.model.User;
+import com.tp1.productos.model.User;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;

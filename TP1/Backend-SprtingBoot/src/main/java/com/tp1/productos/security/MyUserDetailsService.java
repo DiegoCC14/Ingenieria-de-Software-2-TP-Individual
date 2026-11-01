@@ -1,7 +1,7 @@
-package com.kindsonthegenius.product_app.security;
+package com.tp1.productos.security;
 
-import com.kindsonthegenius.product_app.model.User;
-import com.kindsonthegenius.product_app.repositories.UserRepository;
+import com.tp1.productos.model.User;
+import com.tp1.productos.repositories.UserRepository;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;

@@ -1,8 +1,8 @@
-package com.kindsonthegenius.product_app.controllers;
+package com.tp1.productos.controllers;
 
-import com.kindsonthegenius.product_app.model.LoginRequest;
-import com.kindsonthegenius.product_app.services.UserService;
-import com.kindsonthegenius.product_app.model.User;
+import com.tp1.productos.model.LoginRequest;
+import com.tp1.productos.services.UserService;
+import com.tp1.productos.model.User;
 import jakarta.servlet.http.HttpSession;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
